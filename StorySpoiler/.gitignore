@@ -1,0 +1,12 @@
+# Ignore build results
+bin/
+obj/
+.vs/
+TestResults/
+
+# User-specific files
+*.user
+*.suo
+
+# VS Code settings
+.vscode/

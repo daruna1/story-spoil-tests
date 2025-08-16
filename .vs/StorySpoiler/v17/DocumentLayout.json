@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\viara.kitanova\\Downloads\\Story Spoiler\\StorySpoiler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{077A48D2-AE19-44A7-8622-4803CA4727D4}|StorySpoiler\\StorySpoiler.csproj|c:\\users\\viara.kitanova\\downloads\\story spoiler\\storyspoiler\\storyspoiler\\storyspoilerapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{077A48D2-AE19-44A7-8622-4803CA4727D4}|StorySpoiler\\StorySpoiler.csproj|solutionrelative:storyspoiler\\storyspoilerapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StorySpoilerApiTests.cs",
+              "DocumentMoniker": "C:\\Users\\viara.kitanova\\Downloads\\Story Spoiler\\StorySpoiler\\StorySpoiler\\StorySpoilerApiTests.cs",
+              "RelativeDocumentMoniker": "StorySpoiler\\StorySpoilerApiTests.cs",
+              "ToolTip": "C:\\Users\\viara.kitanova\\Downloads\\Story Spoiler\\StorySpoiler\\StorySpoiler\\StorySpoilerApiTests.cs",
+              "RelativeToolTip": "StorySpoiler\\StorySpoilerApiTests.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAA3wJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:18:09.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
